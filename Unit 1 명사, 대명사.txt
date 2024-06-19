@@ -26,9 +26,15 @@ the ( purpose / purposeful ) of the event -> purpose
 the ( project / projected ) before the deadline -> project
 
 2. 전치사 + 명사 + 전치사
-in ( comply / compliance ) with ~에 따라, ~에 응하여
-in ( recognition / recognize ) of ~을 인정하여
+in ( comply / compliance ) with ~에 따라, ~에 응하여 -> compliance
+in ( recognition / recognize ) of ~을 인정하여 -> recognition
 
 3. 관사/소유격 + (부사) + (형용사) + 명사
-a newly appointed (manager / manage)
-my carefully planned(presently / presentation)
+a newly appointed (manager / manage) -> manager
+my carefully planned(presently / presentation) -> presentation
+
+4. 형용사(지시형용사, 수량형용사) + 명사
+extra discounts / this bat / many (product / products) -> products
+
+5. 명사 + 명사
+photo (identify / identification) -> identification
