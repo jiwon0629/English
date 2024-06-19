@@ -149,6 +149,15 @@ alternative : 대안/대체 가능한
 objective : 목표, 객관적인
 representative : 대표(자), 대표하는
 
+[ 대명사 ]
+
+소유격이랑 소유대명사의 차이, 목적격이랑 재귀대명의 차이 문제
+1. 소유격 + 명사
+my resume : 나의 이력서
+his qualifications : 그의 자격요건
+
+
+
 
 
 
