@@ -50,3 +50,33 @@ marketing strategy : 마케팅 전략
 sales figures : 매출 수치
 expiration date : 만료일
 awards ceremony : 시상식
+
+명사 자리는 주/목/보
+1) 주어 : The (information / informative) was not available. -> was가 동사이기 때문에 명사인 information
+2) 타/목 : We encourage creative (innovation / innovate / innovative).
+3) 전/목 : Teamwork is crucial for successful (participate / participation).
+4) 보어 : Customer satisfaction is a (reflect / reflected / reflecting / reflection) of our products quality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
