@@ -3,7 +3,7 @@ Unit 1 명사, 대명사
 명사 생김새
 -tion, -sion, -ness, -sy, -ment, -ty, -sm, -ance(-ence)
 
-ex)
+ex) 명사를 찾아라.
 1.
 (A) appreciate (B) appreciative (C) appreciation (D) appreciates 
 2. 
@@ -12,3 +12,5 @@ ex)
 (A) enthusiasm (B) enthusiastically (C) enthusiastic (D) enthused
 4. 
 (A) participation (B) participant (C) participate (D) participatory
+
+1. C , 2. D , 3. A , 4. A(사물명사), B(사람 명사)
