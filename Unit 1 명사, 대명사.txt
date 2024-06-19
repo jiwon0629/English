@@ -155,6 +155,7 @@ representative : 대표(자), 대표하는
 1. 소유격 + 명사
 my resume : 나의 이력서
 his qualifications : 그의 자격요건
+her product demonstration : 그녀의 제품 시연
 
 
 
