@@ -157,7 +157,10 @@ my resume : 나의 이력서
 his qualifications : 그의 자격요건
 her product demonstration : 그녀의 제품 시연
 
-
+2. 소유대명사(= 소유격 + 명사)
+- The laptop on the desk is hers, and the one on the table is mine.
+- The success of the project was due to his hard work.
+  Therefore, the recognition is all his.
 
 
 
