@@ -39,7 +39,7 @@ extra discounts / this bat / many (product / products) -> products
 5. 명사 + 명사
 photo (identify / identification) -> identification
 
-토익 빈출 복합명사
+- 토익 빈출 복합명사
 office supplies : 사무용품
 interest rate : 이자율
 customer satisfaction : 고객 만족
@@ -53,9 +53,27 @@ awards ceremony : 시상식
 
 명사 자리는 주/목/보
 1) 주어 : The (information / informative) was not available. -> was가 동사이기 때문에 명사인 information
-2) 타/목 : We encourage creative (innovation / innovate / innovative).
-3) 전/목 : Teamwork is crucial for successful (participate / participation).
-4) 보어 : Customer satisfaction is a (reflect / reflected / reflecting / reflection) of our products quality.
+2) 타/목 : We encourage creative (innovation / innovate / innovative). -> innovation
+3) 전/목 : Teamwork is crucial for successful (participate / participation). -> participation
+4) 보어 : Customer satisfaction is a (reflect / reflected / reflecting / reflection) of our products quality. -> reflection
+
+가산명사 vs. 불가산명사
+가산명사는 셀 수 있는 명사
+불가산명사는 셀 수 없는 명사
+
+- 토익 빈출 불가산명사
+information : 정보
+advice : 조언
+merchandise : 상품
+access : 접근
+assistance : 지원
+equipment : 장비
+luggage/baggage : 수하물
+stationery : 문구류
+funding : 자금 제공
+furniture : 가구
+produce : 농산물
+news : 소
 
 
 
