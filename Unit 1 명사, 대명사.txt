@@ -60,6 +60,11 @@ awards ceremony : 시상식
 가산명사 vs. 불가산명사
 가산명사는 셀 수 있는 명사
 불가산명사는 셀 수 없는 명사
+[표]
+관사와 명사    |       가산명사       |          불가산명사
+              | 단수명사  |  복수명사 |
+a/an          |    O     |     X     |           X
+the           |    O     |     O     |           O
 
 - 토익 빈출 불가산명사
 information : 정보
@@ -73,7 +78,7 @@ stationery : 문구류
 funding : 자금 제공
 furniture : 가구
 produce : 농산물
-news : 소
+news : 소식
 
 
 
