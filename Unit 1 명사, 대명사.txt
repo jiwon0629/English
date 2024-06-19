@@ -60,6 +60,7 @@ awards ceremony : 시상식
 가산명사 vs. 불가산명사
 가산명사는 셀 수 있는 명사
 불가산명사는 셀 수 없는 명사
+
 [표]
 관사와 명사    |       가산명사       |          불가산명사
               | 단수명사  |  복수명사 |
@@ -80,6 +81,20 @@ furniture : 가구
 produce : 농산물
 news : 소식
 
+헷갈리는 가산명사 vs. 불가산 명사 모음
+가산 명사
+task : 일
+permit : 허가증
+certificate : 증서, 증명서
+seat : 좌석
+
+불가산명사
+work : 일
+permission : 허락, 승인
+certification : 증명
+seating : 좌석
+
+-ing 대부분 불가산 명사가 많다.
 
 
 
