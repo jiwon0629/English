@@ -101,8 +101,16 @@ seating : 좌석
 [ 사람명사 vs 사물명사 ]
 
 사람 명사는 생긴 모양을 기억하면 쉽다. (-ee, -er, -or, -ist, -ent, -ant ...)
+(표)
+               |    사람 명사                       |  사물 명사
+가산 vs 불가산  |   가산 명사                        |  가산/불가산 둘 다
+단수           | a/an + 사람 명사                   |  - 
+복수           | 사람명사 + -s                      |  -
+예문           | We hired a qualified accountant.  |  She is intereted in accountanting.
 
-
+사람은 셀 수 있다.(1명, 2명, 3명..)
+셀 수 있기 때문에 사람 명사하면 가산명사다.
+사람이 하나면 a/an 둘 이상이면 뒤에 -s
 
 
 
