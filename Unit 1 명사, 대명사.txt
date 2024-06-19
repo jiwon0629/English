@@ -112,6 +112,30 @@ seating : 좌석
 셀 수 있기 때문에 사람 명사하면 가산명사다.
 사람이 하나면 a/an 둘 이상이면 뒤에 -s
 
+- 토익 빈출 사람명사 vs 사물명사
+사람명사
+applicant : 지원자
+assistant : 조수
+participant : 참가자
+correspondent : 통신원
+manager : 경영자
+investor : 투자자
+founder : 설립자
+architect : 건축자
+candidate : 후보자
+manufacturer : 제조업자[체]
+
+사물명사
+application : 신청서
+assistance : 보조
+participation : 참가
+correspondence : 서신
+managerement : 경영
+investment : 투자
+foundation : 설립
+architecture : 건축학
+candidacy : 입후보
+manufacturing : 제조업
 
 
 
