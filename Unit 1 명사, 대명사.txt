@@ -137,6 +137,19 @@ architecture : 건축학
 candidacy : 입후보
 manufacturing : 제조업
 
+[ 특이 어미 병사 ]
+-al
+prorosal : 제안(서)
+arrival : 도착
+approval : 승인
+
+-ive
+initiative : 계획
+alternative : 대안/대체 가능한
+objective : 목표, 객관적인
+representative : 대표(자), 대표하는
+
+
 
 
 
