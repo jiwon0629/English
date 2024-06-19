@@ -1,6 +1,6 @@
 Unit 1 명사, 대명사
 
-명사 생김새
+[ 명사 생김새 ]
 -tion, -sion, -ness, -sy, -ment, -ty, -sm, -ance(-ence)
 
 ex) 명사를 찾아라.
@@ -20,7 +20,7 @@ ex) 명사를 찾아라.
 1. C , 2. D , 3. A , 4. A(사물명사), B(사람 명사)
 
 
-명사 1초 공식 TOP 5
+[ 명사 1초 공식 TOP 5 ]
 1. 관사(a/an/the) + 명사 + 전치사
 the ( purpose / purposeful ) of the event -> purpose
 the ( project / projected ) before the deadline -> project
@@ -51,13 +51,14 @@ sales figures : 매출 수치
 expiration date : 만료일
 awards ceremony : 시상식
 
-명사 자리는 주/목/보
+[ 명사 자리는 주/목/보 ]
 1) 주어 : The (information / informative) was not available. -> was가 동사이기 때문에 명사인 information
 2) 타/목 : We encourage creative (innovation / innovate / innovative). -> innovation
 3) 전/목 : Teamwork is crucial for successful (participate / participation). -> participation
 4) 보어 : Customer satisfaction is a (reflect / reflected / reflecting / reflection) of our products quality. -> reflection
 
-가산명사 vs. 불가산명사
+[ 가산명사 vs. 불가산명사 ]
+
 가산명사는 셀 수 있는 명사
 불가산명사는 셀 수 없는 명사
 
@@ -81,7 +82,8 @@ furniture : 가구
 produce : 농산물
 news : 소식
 
-헷갈리는 가산명사 vs. 불가산 명사 모음
+[ 헷갈리는 가산명사 vs. 불가산 명사 모음 ]
+
 가산 명사
 task : 일
 permit : 허가증
@@ -96,6 +98,9 @@ seating : 좌석
 
 -ing 대부분 불가산 명사가 많다.
 
+[ 사람명사 vs 사물명사 ]
+
+사람 명사는 생긴 모양을 기억하면 쉽다. (-ee, -er, -or, -ist, -ent, -ant ...)
 
 
 
