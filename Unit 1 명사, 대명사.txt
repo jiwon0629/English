@@ -157,10 +157,11 @@ my resume : 나의 이력서
 his qualifications : 그의 자격요건
 her product demonstration : 그녀의 제품 시연
 
-2. 소유대명사(= 소유격 + 명사)
+2. 소유대명사( = 소유격 + 명사)
 - The laptop on the desk is hers, and the one on the table is mine.
 - The success of the project was due to his hard work.
   Therefore, the recognition is all his.
+소유대명사 뒤에 또 다른 명사를 쓰면 안 된다.
 
 3. 목적격
 I borrowed a pen from her, but she asked for hers back after the meeting.
@@ -170,7 +171,7 @@ introduce 타동사 다음에 목적어니까 him
 
 4. 재귀대명사
   1. 재귀용법 (주어=목적어, 생략 불가)
-     He praised for the excellent customer service provided by his team.
+     He praised himself for the excellent customer service provided by his team.
   2. 강조용법 (완전한 문장 뒤 부사처럼, 생략 가능)
      She handled the technical issue herself without any assistance.
 
