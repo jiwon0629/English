@@ -184,11 +184,15 @@ This is the annual financial report for your company.
 Those were the documents I mentioned in the previous meeting.
 (That/These) have the latest software updates.
 This 다음에 is라는 단수동사 사용한다.
+Those 다음에 were이라는 복수동사를 사용한다.
+have가 복수동사이기 때문에 These
 
 2. Those who + 복수동사
 Those who (complete / completes) the training program will receive a certification.
 Those who (meet / meets) sales targets will be eligible for a bonus.
-
+-s 들어가면 단수
+complete 
+meet
 
 
 
