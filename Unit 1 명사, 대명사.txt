@@ -162,8 +162,20 @@ her product demonstration : 그녀의 제품 시연
 - The success of the project was due to his hard work.
   Therefore, the recognition is all his.
 
+3. 목적격
+I borrowed a pen from her, but she asked for hers back after the meeting.
+She will introduce him th the project team tomorrow.
+form은 전치사이므로 다음에 목적격 her이 들어간다.
+introduce 타동사 다음에 목적어니까 him
 
-31
+4. 재귀대명사
+  1. 재귀용법 (주어=목적어, 생략 불가)
+     He praised for the excellent customer service provided by his team.
+  2. 강조용법 (완전한 문장 뒤 부사처럼, 생략 가능)
+     She handled the technical issue herself without any assistance.
+
+
+
 토익 문법 6시간 완성 🔥후회 없는 영상 100% 보장🔥 토익 독학 & 영문법 졸업 가능 | 6월 30일 토익 시험 대비 [서아쌤의 비밀과외]
 https://www.youtube.com/watch?v=3hm7qJDcHCM
 
