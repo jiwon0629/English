@@ -174,6 +174,21 @@ introduce 타동사 다음에 목적어니까 him
      He praised himself for the excellent customer service provided by his team.
   2. 강조용법 (완전한 문장 뒤 부사처럼, 생략 가능)
      She handled the technical issue herself without any assistance.
+재귀대명사는 재귀용법과 강조용법으로 나뉘어진다.
+재귀용법으로 들어가면 주어 목적어 같은 거
+강조용법은 완벽한 문장 다음에 부사처럼 써주는 거
+
+지시대명사
+1. This, That + 단수동사/These, Those + 복수동사
+This is the annual financial report for your company.
+Those were the documents I mentioned in the previous meeting.
+(That/These) have the latest software updates.
+This 다음에 is라는 단수동사 사용한다.
+
+2. Those who + 복수동사
+Those who (complete / completes) the training program will receive a certification.
+Those who (meet / meets) sales targets will be eligible for a bonus.
+
 
 
 
