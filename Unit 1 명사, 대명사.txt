@@ -191,8 +191,35 @@ have가 복수동사이기 때문에 These
 Those who (complete / completes) the training program will receive a certification.
 Those who (meet / meets) sales targets will be eligible for a bonus.
 -s 들어가면 단수
-complete 
-meet
+Those who complete 
+Those who meet
+
+부정대명사
+one vs. another
+one : 앞의 명사와 종류가 같은 "어떤 하나"
+I heard that the new smartphone is amazing. Do you have one?
+
+another : "또 다른 하나"
+I had one cup of coffee, and now I want another.
+some vs. any
+some
+1. 긍정문
+Some say that practice makes perfect.
+2. 단, 권유나 제안을 나타내는 의문문에서는 some
+Could you take some notes for me?
+
+any
+1. 부정문, 의문문, 조건문
+He does not have any of the essential documents.
+Did you not receive any of the invitations?
+If any of the products are damaged, please let us know.
+2. 긍정문도 가능(어떤 ~라도) <-강조
+These are many available books in the library.
+You can take any.
+
+긍정문인가 부정문인가 확인하는 방법
+내용이 긍정인지 부정인지 보지말고 문장 속에 not이 있냐 없냐로 보면 된다.
+
 
 
 
