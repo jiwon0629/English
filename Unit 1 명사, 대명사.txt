@@ -220,6 +220,15 @@ You can take any.
 긍정문인가 부정문인가 확인하는 방법
 내용이 긍정인지 부정인지 보지말고 문장 속에 not이 있냐 없냐로 보면 된다.
 
+TechCraft Innovations opened (    ) Sheffield factory two decades ago to meet the growing demand.
+(A) it  (B) its  (C) which  (D) what
+Sheffield factory목적어 자리에다가 써 둔 명사 앞에 소유격 들어가야하기 때문에 its
+
+(   ) who wants to improve their communication skills should actively engage in conversations in their daily lives.
+(A) That  (B) Those  (C) Anyone  (D) Anything
+Thoes who + 복수명사
+Anyone who + 단수명서
+이기 때문에 Anyone
 
 
 
