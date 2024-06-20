@@ -232,6 +232,10 @@ Anyone who + 단수명서
 
 The manager moved employees from one department to (   ) to optimize productivity.
 (A) one  (B) other  (C) another  (D) one another
+other은 형용사이기 때문에 뒤에 복수명사나 불가산명사가 들어가야함
+another은 단독으로 쓸 수 있는 대명사
+one another : 서로서로
+해석해보면 하나의 부서에서 또 다른 부서로 옮겨 가기 때문에 another
 
 We have prepared some refreshments for our valued visitors, so please feel free to take (   ).
 (A) little  (B) much  (C) any  (D) anyone
