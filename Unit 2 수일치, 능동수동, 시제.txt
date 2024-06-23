@@ -1,1 +1,14 @@
 Unit 2 수일치, 능동/수동, 시제
+
+S질량의 보존의 법칙
+단수주어+단수동사   |   복수주어+복수동사
+명사는 "-s"가 있으면 "복수" / 동사는 "-s"가 있으면 "단수"
+          |  단수주어  |  복수주어  |
+          |   A boy   |    Boys    |
+  종류    |  현재시제  |  현재시제   |  과거시제
+ be 동사  |     is    |    are     |  was / were
+ do 동사  |   does    |     do     |     did
+have 동사 |    has    |    have    |     had
+일반동사  |    plays  |    play    |   played
+
+
