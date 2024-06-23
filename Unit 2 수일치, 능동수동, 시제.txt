@@ -26,7 +26,13 @@ The employees 주어에 -s 있으니까 analyze이다. at the branch office -> �
 The students in the laboratory (have / has) conducted experiments for 6 months.
 The students 주어에 -s 있으니까 have이다. in the laboratory -> 전치사구
 
+3. 주어 + 분사구 + 동사
+The seminar held last month (have / has) been acclaimed for its insightful presentation.
+The participants attending the job fair (was / were) actively engaged in group discussions.
 
+4. 주어 + 관계절 + 동사
+The skills I could learn at the class (was / were) invaluable.
+The newly hired CEO, who has worked for more than a decade, (play / plays) an important role in the company's strategic planning.
 
 
 
