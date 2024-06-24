@@ -45,15 +45,15 @@ Anyone who + 단수동사
 
 1. 조동사 + 동사원형
 As of next month, Mr.Cameron will (oversee / oversees) the upcoming project.
-
+조동사 will, can, should, may 등등 뒤에 동사원형 oversee
 The budget report will (be / is) submitted by the end of this week.
-
+조동사 will, can, should, may 등등 뒤에 동사원형 be
 
 2. Please + 동사원형
 Please (confirm / confirms / confirmed) your attendance for conference by Friday.
-
+confirm
 Please (review / reviews / reviewed) the presentation slides before the meeting tomorrow.
-
+review
 
 
 
