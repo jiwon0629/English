@@ -41,7 +41,18 @@ The newly hired CEO 주어에 -s 없으니까 plays이다. who has worked for mo
 Those who + 복수동사
 Anyone who + 단수동사
 
+[ 무조건 동사원형 자리 ]
 
+1. 조동사 + 동사원형
+As of next month, Mr.Cameron will (oversee / oversees) the upcoming project.
+
+The budget report will (be / is) submitted by the end of this week.
+
+
+2. Please + 동사원형
+Please (confirm / confirms / confirmed) your attendance for conference by Friday.
+
+Please (review / reviews / reviewed) the presentation slides before the meeting tomorrow.
 
 
 
