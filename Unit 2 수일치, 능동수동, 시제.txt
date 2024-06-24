@@ -64,7 +64,17 @@ To follow the company's policies (are / is) essential.  To부정사 To follow th
 Sharing regular updates (enhance / enhances) communication within the team.  Sharing regular updates 여기서 updates가 -s라고 해서 복수명사로 끝났어도 enhance
 That the company's profits exceeded expectations (was / were) surprising.  That절 was
 
+[ 동사 보는 방법 ]
 
+A desk is being assembled.
+시제를 볼 때는 앞에서부터 순차적으로
+능동태인지 수동태인지 볼 때는 동사의 끝부터 봐야 한다.
+
+was playing -> 과거진행/능동
+are being watered -> 현재진행/수동
+have been colored -> 현재완료/수동
+will have been discussed -> 미래완료/수동
+will have been studying -> 미래완료진행/능동
 
 
 
