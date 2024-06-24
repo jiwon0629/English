@@ -82,7 +82,8 @@ will have been studying -> 미래완료진행/능동
 
 1. 3형식 바꾸는 방법
 Wesely Hayden sent a confirmation email.
--> A confirmation email is sent by Wesley Hayden.
+-> A confirmation email was sent by Wesley Hayden.
+sent가 과거이니까 과거시제이면서 be동사이면서 주어에 들어간게 confirmaiton email이라고 해서 단수가 들어갔으니까 모든 걸 충족시키기 위해 was가 들어가야한다.
 
 
 
