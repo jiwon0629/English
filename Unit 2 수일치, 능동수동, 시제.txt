@@ -30,11 +30,16 @@ The students 주어에 -s 있으니까 have이다. in the laboratory -> 전치�
 The seminar held last month (have / has) been acclaimed for its insightful presentation.
 The seminar 주어에 -s 없으니까 has이다. held last month -> 분사구
 The participants attending the job fair (was / were) actively engaged in group discussions.
+The participants 주어에 -s 있으니까 were이다. attending the job fair -> 분사구
 
 4. 주어 + 관계절 + 동사
 The skills I could learn at the class (was / were) invaluable.
+The skills 주어에 -s 있으니까 were이다. I could learn at the class -> 관계대명사절
 The newly hired CEO, who has worked for more than a decade, (play / plays) an important role in the company's strategic planning.
+The newly hired CEO 주어에 -s 없으니까 plays이다. who has worked for more than a decade -> 관계대명사절
 
+Those who + 복수동사
+Anyone who + 단수동사
 
 
 
