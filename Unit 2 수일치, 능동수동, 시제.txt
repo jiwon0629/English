@@ -76,6 +76,16 @@ have been colored -> 현재완료/수동
 will have been discussed -> 미래완료/수동
 will have been studying -> 미래완료진행/능동
 
+수동은 be + p.p
+
+[ 3형식 수동태 푸는 법 ]
+
+1. 3형식 바꾸는 방법
+Wesely Hayden sent a confirmation email.
+-> A confirmation email is sent by Wesley Hayden.
+
+
+
 
 
 
