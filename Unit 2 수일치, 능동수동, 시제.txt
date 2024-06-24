@@ -91,7 +91,19 @@ Step 2. 해석 : "주어"가 "동사" 되다 (수동적 해석)
 The application forms (    ) by tomorrow.
 (A) should submit
 (B) should be submitted
+A는 능동태 B는 수동
 
+3. 3형식 수동태 + 전치사
+be surprised at : ~에 놀라다
+be satisfied with : ~에 만족하다
+be filled with : ~로 가득차다
+be equipped with : ~를 갖추고 있다
+be involved in : ~에 연루되다
+be interested in : ~에 흥미가 있다
+be known for : ~때문에 유명하다
+be known as : ~로서 유명하다
+be based on : ~에 기초하다, 근거하다
+be based in : ~에 기반을 두다
 
 
 
