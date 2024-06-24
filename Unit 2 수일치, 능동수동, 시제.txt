@@ -55,6 +55,8 @@ confirm
 Please (review / reviews / reviewed) the presentation slides before the meeting tomorrow.
 review
 
+[ 무조건 단수동사 ]
+주어자리에 단수명사, 불가산명사, To부정사구, 동명사구, That절 이면 단수동사를 써야 한다.
 
 
 
