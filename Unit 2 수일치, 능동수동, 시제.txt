@@ -28,6 +28,7 @@ The students 주어에 -s 있으니까 have이다. in the laboratory -> 전치�
 
 3. 주어 + 분사구 + 동사
 The seminar held last month (have / has) been acclaimed for its insightful presentation.
+The seminar 주어에 -s 없으니까 has이다. held last month -> 분사구
 The participants attending the job fair (was / were) actively engaged in group discussions.
 
 4. 주어 + 관계절 + 동사
