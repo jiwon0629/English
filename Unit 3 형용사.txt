@@ -27,7 +27,9 @@ Unit 3 형용사
   Health insurance has become (expense/expensive).  
   The user manual was very (specify/specific).  
 
-
+3. 목적격 보어 자리(주어 + 5형식 동사 + 목적어 + 목적격 보어)  
+  The HR Department found the workshop (inform/informative).  
+  The news made Mr. Tyler (happiness/happy).  
 
 
 
