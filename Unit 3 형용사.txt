@@ -16,6 +16,7 @@ Unit 3 형용사
 1번 : B , 2번 : C , 3번 : C , 4번 : D  
 
 [ 형용사 위치와 공식 ]  
+
 1. 관/소 + 형용사 + 명사  
   a (succeed/successful) candidate  당선자
   a는 관사 candidate는 명사니까 successful 형용사
@@ -23,6 +24,24 @@ Unit 3 형용사
   her 소유격이고 health record는 복합명사니까 previous 형용사  
 
 2. 주격 보어 자리(주어 + 2형식 동사 + 주격보어)  
- 
+  Health insurance has become (expense/expensive).  
+  The user manual was very (specify/specific).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
