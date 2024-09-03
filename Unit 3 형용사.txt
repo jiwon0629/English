@@ -18,8 +18,8 @@ Unit 3 형용사
 [ 형용사 위치와 공식 ]  
 
 1. 관/소 + 형용사 + 명사  
-  a (succeed/successful) candidate  당선자
-  a는 관사 candidate는 명사니까 successful 형용사
+  a (succeed/successful) candidate  당선자  
+  a는 관사 candidate는 명사니까 successful 형용사  
   her (previous/previously) health record  이전 건강 기록  
   her 소유격이고 health record는 복합명사니까 previous 형용사  
 
