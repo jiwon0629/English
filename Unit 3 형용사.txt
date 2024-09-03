@@ -33,7 +33,11 @@ Unit 3 형용사
 
 3. 목적격 보어 자리(주어 + 5형식 동사 + 목적어 + 목적격 보어)  
   The HR Department found the workshop (inform/informative).  
+  found목적어 사용하고 informative목적격 보어 사용 inform은 동사
   The news made Mr. Tyler (happiness/happy).  
+  5형식 동사 made이고 happy를 형용사 사용
+
+5형식 동사 : keep, find, consider, make
 
 
 
