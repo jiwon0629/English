@@ -1,7 +1,7 @@
 Unit 3 형용사  
 
 형용사 생김새  
--ful, -able, -tive, -sive, -ous, -y...  
+-ful, -able, -tive, -sive, -ous, -y, -ic...  
 
 1 (A) appreciate                  2 (A) success  
   (B) appreciative                  (B) succeed  
@@ -25,7 +25,9 @@ Unit 3 형용사
 
 2. 주격 보어 자리(주어 + 2형식 동사 + 주격보어)  
   Health insurance has become (expense/expensive).  
+  become은 2형식 동사니까 주격보어 expensive  
   The user manual was very (specify/specific).  
+  -fy는 동사임. was는 2형식 동사니까 
 
 3. 목적격 보어 자리(주어 + 5형식 동사 + 목적어 + 목적격 보어)  
   The HR Department found the workshop (inform/informative).  
