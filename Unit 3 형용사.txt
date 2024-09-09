@@ -33,9 +33,9 @@ Unit 3 형용사
 
 3. 목적격 보어 자리(주어 + 5형식 동사 + 목적어 + 목적격 보어)  
   The HR Department found the workshop (inform/informative).  
-  found목적어 사용하고 informative목적격 보어 사용 inform은 동사니까 형용사인 informative 사용
+  found목적어 사용하고 informative목적격 보어 사용 inform은 동사니까 형용사인 informative 사용  
   The news made Mr. Tyler (happiness/happy).  
-  5형식 동사 made이고 happy를 형용사 사용
+  5형식 동사 made이고 happy를 형용사 사용  
 
 5형식 동사 : keep, find, consider, make  
 
@@ -48,7 +48,7 @@ I know every (student / students).
 We need another (computer / computers) for the presentation.  
 단수명사 computer  
 
-예외)
+예외)  
 * every + 숫자 + 복수명사 : ~ 마다  
 * another + 숫자 + 복수명사 : 또 다른 ~  
 중간에 숫자 같은게 들어가면 뒤에는 복수명사 쓸 수 있다.  
@@ -57,20 +57,20 @@ ex) another 3 weeks : 또 다른 3주
 
 2. many, (a) few, a number of, several + 복수명사(명사 뒤에 s 붙인 것)  
 She participated in a few (workshop / workshops) about communication skills.  
-a few 뒤에 workshops
+a few 뒤에 workshops  
 
 3. much, little, a little, less + 불가산명사(셀 수 없는 명사)  
 I had so much (trouble / troubles) because of the delayed schedule.  
-much 뒤에는 trouble을 사용
+much 뒤에는 trouble을 사용  
 
 4. all, some, most, a lot of + 복수명사 / 불가산명사  
 All (applicant / applicants) are required to answer questions.  
-All 뒤에 applicant는 단수기 때문에 applicants
+All 뒤에 applicant는 단수기 때문에 applicants  
 (Every / All) information should be available.  
 information은 불가산명사이다. 하지만 Every뒤에는 단수가 들어가야하므로 All  
 
-a few / few | a little / little 차이
-a few / few + 셀 수 있는 복수명사   
+a few / few | a little / little 차이  
+a few / few + 셀 수 있는 복수명사  
 a little / little + 셀 수 없는 불가산명사  
 그리고 앞에 a가 붙으면 긍정적으로 해석, 없으면 부정적으로 해석  
 ex) 조금 있는 가구 : a little furniture  
@@ -86,7 +86,8 @@ successful : 성공적인       successive : 연속의
 comparable : ~ 와 비슷한    comparative : 비교의  
 reliable : 믿을만한         reliant : 의존적인  
 
-
+The recently appointed manager has (considerable / considerate) work experience.  
+In order to get (reliant / reliable) data, we need the follow the rules strictly.  
 
 
 
