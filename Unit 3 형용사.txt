@@ -55,8 +55,9 @@ We need another (computer / computers) for the presentation.
 She participated in a few (workshop / workshops) about communication skills.  
 a few 뒤에 workshops
 
-3. much, little, a little, less + 명사  
+3. much, little, a little, less + 불가산명사(셀 수 없는 명사)  
 I had so much (trouble / troubles) because of the delayed schedule.  
+much 뒤에는 trouble을 사용
 
 4. all, some, most, a lot of + 명사 / 명사  
 All (applicant / applicants) are required to answer questions.  
