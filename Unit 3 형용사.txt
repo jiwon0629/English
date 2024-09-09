@@ -49,6 +49,7 @@ I know every (student / students).
 모든 사람명사는 셀 수 있는 가산명사지만, 수량형용사 들어갔을 땐 관사를 신경쓰지 않는다.  
 그러므로 단수명사 student 사용  
 We need another (computer / computers) for the presentation.  
+단수명사 computer  
 
 2. many, (a) few, a number of, several + 명사  
 She participated in a few (workshop / workshops) about communication skills.  
