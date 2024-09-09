@@ -52,7 +52,8 @@ We need another (computer / computers) for the presentation.
 * every + 숫자 + 복수명사 : ~ 마다  
 * another + 숫자 + 복수명사 : 또 다른 ~  
 중간에 숫자 같은게 들어가면 뒤에는 복수명사 쓸 수 있다.  
-
+ex) every 4 years : 4년마다  
+ex) another 3 weeks : 또 다른 3주  
 
 2. many, (a) few, a number of, several + 복수명사(명사 뒤에 s 붙인 것)  
 She participated in a few (workshop / workshops) about communication skills.  
