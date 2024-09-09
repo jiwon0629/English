@@ -63,6 +63,12 @@ much 뒤에는 trouble을 사용
 All (applicant / applicants) are required to answer questions.  
 All 뒤에 applicant는 단수기 때문에 applicants
 (Every / All) information should be available.  
+information은 불가산명사이다. 하지만 Every뒤에는 단수가 들어가야하므로 All  
+
+a few / few | a little / little 차이
+a few / few + 셀 수 있는 복수명사   
+a little / little + 셀 수 없는 불가산명사  
+그리고 앞에 a가 붙으면 긍정적으로 해석, 없으면 부정적으로 해석  
 
 
 
