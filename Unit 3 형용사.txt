@@ -41,15 +41,18 @@ Unit 3 형용사
 
 [ 수량형용사 수일치 ]  
 
-* every + 숫자 + 복수명사 : ~ 마다  
-* another + 숫자 + 복수명사 : 또 다른 ~  
-
 1. each, every, another + 단수명사  
 I know every (student / students).  
 모든 사람명사는 셀 수 있는 가산명사지만, 수량형용사 들어갔을 땐 관사를 신경쓰지 않는다.  
 그러므로 단수명사 student 사용  
 We need another (computer / computers) for the presentation.  
 단수명사 computer  
+
+예외)
+* every + 숫자 + 복수명사 : ~ 마다  
+* another + 숫자 + 복수명사 : 또 다른 ~  
+중간에 숫자 같은게 들어가면 뒤에는 복수명사 쓸 수 있다.  
+
 
 2. many, (a) few, a number of, several + 복수명사(명사 뒤에 s 붙인 것)  
 She participated in a few (workshop / workshops) about communication skills.  
