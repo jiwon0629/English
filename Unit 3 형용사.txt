@@ -59,8 +59,9 @@ a few 뒤에 workshops
 I had so much (trouble / troubles) because of the delayed schedule.  
 much 뒤에는 trouble을 사용
 
-4. all, some, most, a lot of + 명사 / 명사  
+4. all, some, most, a lot of + 복수명사 / 불가산명사  
 All (applicant / applicants) are required to answer questions.  
+All 뒤에 applicant는 단수기 때문에 applicants
 (Every / All) information should be available.  
 
 
