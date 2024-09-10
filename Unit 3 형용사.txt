@@ -90,7 +90,7 @@ reliable : 믿을만한         reliant : 의존적인
 The recently appointed manager has (considerable / considerate) work experience.  
 상당한으로 해석해야하니까 considerable  
 In order to get (reliant / reliable) data, we need the follow the rules strictly.  
-
+의존적인으로 해석해야하니까 reliable
 
 
 
