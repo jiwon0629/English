@@ -102,7 +102,7 @@ In order to get (reliant / reliable) data, we need the follow the rules strictly
 (A) every  
 (B) another
 (C) neither
-
+(D) several  
 
 
 
