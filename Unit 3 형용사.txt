@@ -98,6 +98,8 @@ In order to get (reliant / reliable) data, we need the follow the rules strictly
 (C) charming  
 (D) charmingly  
 
+atmosphere명사 수식해주는 형용사 들어가면 되니까 (D) charmingly
+
 2. Once the data is gathered, Ms. Murphy will consider ____ proposals for the upcoming presentation.
 (A) every  
 (B) another
