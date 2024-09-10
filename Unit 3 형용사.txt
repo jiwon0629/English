@@ -106,7 +106,22 @@ atmosphere명사 수식해주는 형용사 들어가면 되니까 (D) charmingly
 (C) neither
 (D) several  
 
-proposals는 복수니까 every, another 안되고 neither도 뒤에 단수명사 써야 한다. 그리고 several만 복수명사 사용 가능
+proposals는 복수니까 every, another 안되고 neither도 뒤에 단수명사 써야 한다. 그리고 several만 복수명사 사용 가능  
+
+3. Due to Mr. Smith's ____ communication style, his team's productivity has been negatively affected for a long time.  
+(A) amicable
+(B) ambiguous
+(C) apparent
+(D) anonymous
+
+
+
+4. The success of the project was attributed to ____ hard work and dedication put in by the team members.
+(A) a number of
+(B) little
+(C) the number of
+(D) a lot of
+
 
 
 
