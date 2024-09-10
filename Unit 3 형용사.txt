@@ -88,7 +88,7 @@ reliable : 믿을만한         reliant : 의존적인
 
 이 문제는 해석으로 풀기
 The recently appointed manager has (considerable / considerate) work experience.  
-상당한으로 해석해야하니까 considerable
+상당한으로 해석해야하니까 considerable  
 In order to get (reliant / reliable) data, we need the follow the rules strictly.  
 
 
