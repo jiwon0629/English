@@ -134,12 +134,18 @@ all, some, a lot of, most
 (C) successful
 (D) successfully
 
+(D) successfully 
+
 2
 (A) enthusiasm
-(A) enthusiastically
-(A) enthusiastic
-(A) enthused
+(B) enthusiastically
+(C) enthusiastic
+(D) enthused
 
+(B)enthusiastically
+
+"명사 + ly"는 형용사
+ex) friendly, costly, timely, lovely, manly, orderly...
 
 
 
