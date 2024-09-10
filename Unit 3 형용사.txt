@@ -93,10 +93,10 @@ In order to get (reliant / reliable) data, we need the follow the rules strictly
 의존적인으로 해석해야하니까 reliable  
 
 1. The Pineview Inn, located in Asheville, is known for its breathtaking mountain views and ____ atmosphere.  
-(A) charm  
-(B) charmer  
-(C) charming  
-(D) charmingly  
+(A) charm        명사) 매력 / 동사) 매혹하다.
+(B) charmer      명사) 매력 있는 사람
+(C) charming     형용사) 매력적인
+(D) charmingly   부사) 매력적으로
 
 atmosphere명사 수식해주는 형용사 들어가면 되니까 (D) charmingly
 
