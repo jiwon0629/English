@@ -109,10 +109,10 @@ atmosphere명사 수식해주는 형용사 들어가면 되니까 (D) charmingly
 proposals는 복수니까 every, another 안되고 neither도 뒤에 단수명사 써야 한다. 그리고 several만 복수명사 사용 가능  
 
 3. Due to Mr. Smith's ____ communication style, his team's productivity has been negatively affected for a long time.  
-(A) amicable
-(B) ambiguous
-(C) apparent
-(D) anonymous
+(A) amicable    형용사) 우호적인, 원만한
+(B) ambiguous   형용사) 애매모호한
+(C) apparent    형용사) 분명한, 누가 봐도 알 수 있는
+(D) anonymous   형용사) 익명인, 익명으로 된
 
 
 
