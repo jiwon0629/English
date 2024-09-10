@@ -114,7 +114,7 @@ proposals는 복수니까 every, another 안되고 neither도 뒤에 단수명�
 (C) apparent    형용사) 분명한, 누가 봐도 알 수 있는
 (D) anonymous   형용사) 익명인, 익명으로 된
 
-
+해석으로 문제 풀면 (B) ambiguous 애매모호한 
 
 4. The success of the project was attributed to ____ hard work and dedication put in by the team members.
 (A) a number of
