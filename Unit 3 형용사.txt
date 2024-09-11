@@ -258,7 +258,22 @@ The event spacem which is mainly a gallery for local artists, occasionally hosts
 Even a brief interruption in the power supply can disrupt the manufacturing process.
 이 문장에서는 a brief interruption이 명사구
 
+1. The online platform, TAC, is ____ recommended for its user-friendly interface and efficient customer service.
+(A) closely
+(B) roughly
+(C) hardly
+(D) highly
 
+(D) highly
+
+2. Exploring the ____ diverse city is beneficial for gaining insights into its cultural heritage.
+(A) history
+(B) histories
+(C) historian
+(D) historically
+
+관.부.형.명  나머지는 다 명사
+(D) historically
 
 
 
