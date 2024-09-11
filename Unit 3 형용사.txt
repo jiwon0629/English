@@ -149,7 +149,7 @@ ex) friendly, costly, timely, lovely, manly, orderly...
 in a timely manner : 시기적절한 제 시간에
 in an orderly manner : 질서정연한
 
-부사자리
+1. 부사자리
 
 - 부사, 주어 + 동사 ~.          Unfortunately(부사), Mr.Powell is unable th attend the meeting.
 - 주어 부사 동사                Our CEO proudly(부사) announced that we have met our sales goal.
@@ -162,6 +162,31 @@ in an orderly manner : 질서정연한
 - 조 부사 동사원형              I can hardly(부사) believe the news I just heard.
   to 부사 동사원형              To efficiently(부사) complete the project, the team worked overtiem.
 - 관/소 부사 형 명              The highly(부사) effcient team completed the project ahead of schedule.
+
+2. 헷갈리는 부사 정리
+
+hard
+형용사) 단단한, 열심히 하는
+a hard mattress
+부사) 세게, 열심히
+She works hard
+
+hardly
+부사) 거의 ~ 아니다 (부정)
+We hardly know each other.
+I cna hardly believe it.
+
+high
+형용사) 높은, 대단한
+high mountain / shelf
+부사) 높이, 많이, 몹시
+be expected to rise higher this year
+
+highly
+부사) 높이 평가하여, 매우, 대단히
+highly recommended
+highly regarded
+highly successful / skilled / trained
 
 
 
