@@ -281,13 +281,17 @@ Even a brief interruption in the power supply can disrupt the manufacturing proc
 (C) originally
 (D) considerably
 
+a warehouse는 명사구가 있기 때문에 명사구 수식
+(C) orginally
+
 4. Although there were a few typos in the brochure, thanks to MR. Matthews's excellent presentation skills, erros were ____ noticeable.
 (A) seldom
 (B) generally
 (C) frequently
 (D) occasionally
 
-
+해석으로 풀면 
+(A) seldom
 
 
 
