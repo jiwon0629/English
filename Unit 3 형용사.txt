@@ -151,17 +151,17 @@ in an orderly manner : 질서정연한
 
 부사자리
 
-- 부사, 주어 + 동사 ~.
-- 주어 부사 동사
-- 부사 자동사 부사
-- 부사 타동사 + 목적어 부사
-- have 부사 p.p
-  be 부사 p.p
-  be 부사 ing
-  be 부사 형
-- 조 부사 동사원형
-  to 부사 동사원형
-- 관/소 부사 형 명
+- 부사, 주어 + 동사 ~.          Unfortunately(부사), Mr.Powell is unable th attend the meeting.
+- 주어 부사 동사                Our CEO proudly(부사) announced that we have met our sales goal.
+- 부사 자동사 부사              All attendees are expected to arrive promptly(부사).
+- 부사 타동사 + 목적어 부사     The policy primarily(부사) affects employees' performance.
+- have 부사 p.p                 We have recently(부사) acquired a new software system.
+  be 부사 p.p                   All equipment must be regularly(부사) monitored
+  be 부사 ing                   The team is enthusiastically(부사) working.
+  be 부사 형                    The product is surprisingly(부사) affordable given its quality.
+- 조 부사 동사원형              I can hardly(부사) believe the news I just heard.
+  to 부사 동사원형              To efficiently(부사) complete the project, the team worked overtiem.
+- 관/소 부사 형 명              The highly(부사) effcient team completed the project ahead of schedule.
 
 
 
