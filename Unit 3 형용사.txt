@@ -145,7 +145,23 @@ all, some, a lot of, most
 (B)enthusiastically
 
 "명사 + ly"는 형용사
-ex) friendly, costly, timely, lovely, manly, orderly...
+ex) friendly, costly, timely, lovely, manly, orderly...  
+in a timely manner : 시기적절한 제 시간에
+in an orderly manner : 질서정연한
+
+부사자리
+
+- , 주어 + 동사 ~.
+- 주어 동사
+- 자동사
+- 타동사 + 목적어
+- have p.p
+  be p.p
+  be ing
+  be 형
+- 조 동사원형
+  to 동사원형
+- 관/소 형 명
 
 
 
