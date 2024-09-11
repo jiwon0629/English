@@ -210,7 +210,14 @@ lately
 I haven't seen her lately
 You've been cheerful lately.
 
+3. 빈도부사
+빈번한 정도를 표현해주는 부사
 
+always, usually, often, frequently sometimes, hardly(중요), rarely(중요), seldom(중요), scarcely, barely, never
+
+Thanks to the recent cleaning, you can hardly find any stains on the staircase.
+Due to the security measures, system breaches are rarely seen in our network.
+Customers seldom need to wait in line with the online reservation system.
 
 
 
