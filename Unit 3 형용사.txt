@@ -233,9 +233,28 @@ after approximately three weeks of training
 nearly 20% reduction in production time
 up to 50% during the weekend sale event
 
+5. 명사구 수식 부사
+구는 2글자 이상이며 주어랑 동사가 없는 덩어리
 
+부사 : 문장전체, 동사, 형용사, 부사를 수식
+형용사 : 명사를 수식
 
+주로 : mainly, Iargely
+단지 : simply, only, just
+이전에, 예전에 : formerly
+원래 : orginally
+한 때 : once
+명백히  clearly
+거의 : almost
+심지어(~조차) : even
 
+형용사는 관사가 앞에 있을 떄 관.형.명으로 명사를 수식해준다. 
+하지만 관.명 이렇게 있으면 2글자 이상이며 주어, 동사가 없으니까 명사의 역할을 하는 구 즉, 명사구가 된다.
+
+Originally a warehouse for agricultural produce, this building has been renovated and is now used as shared housing.
+warehouse는 명사고 a는 관사. now가 들어갔을 때 originally가 자주 나옴. 이랬는데 지금은 이렇게 됐다.
+The event spacem which is mainly a gallery for local artists, occasionally hosts community gatherings.
+Even a brief interruption in the power supply can disrupt the manufacturing process.
 
 
 
