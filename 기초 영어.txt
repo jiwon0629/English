@@ -25,3 +25,4 @@ Do they live in Seoul?
 
 동사
 일반동사 : 동작 (be 동사 제외한 모두)
+be동사 : 상태 (am, are, is)
