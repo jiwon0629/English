@@ -28,3 +28,4 @@ Do they live in Seoul?
 be동사 : 상태 (am, are, is)
 am은 I만 사용
 are은 You 또는 복수 주어에 사용
+is는 3인칭 단수
