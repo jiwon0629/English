@@ -9,3 +9,4 @@ s, x, ch,  sh
 
 예외2) y로 끝나는 동사에는 ies로 바뀐다.
 try -> tries
+하지만 모음 a e i o u 와 같이 있으면 그냥 s만 붙임
