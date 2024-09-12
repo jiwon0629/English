@@ -14,3 +14,4 @@ play -> plays
 
 예외3) do, go, have에 s를 붙인 형태
 3인칭 단수가 주어일 때 동사 자리에 do, go, have가 들어가면 
+does, goes, has로 바뀐다.
