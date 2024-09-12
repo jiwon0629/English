@@ -27,3 +27,4 @@ Do they live in Seoul?
 일반동사 : 동작 (be 동사 제외한 모두)
 be동사 : 상태 (am, are, is)
 am은 I만 사용
+are은 You 또는 복수 주어에 사용
