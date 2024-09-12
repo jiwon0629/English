@@ -18,3 +18,5 @@ does, goes, has로 바뀐다.
 
 부정문 don't 나 doesn't 다음에는 동사원형
 She doesn't watch TV at night
+
+의문문 Do 나 Does 다음에는 동사원형
