@@ -11,3 +11,5 @@ s, x, ch,  sh
 try -> tries
 하지만 모음 a e i o u 와 같이 있으면 그냥 s만 붙임
 play -> plays
+
+예외3) do, go, have에 s를 붙인 형태
