@@ -72,7 +72,9 @@ a mouse -> mice
 an ox -> oxen
 
 3) 바뀌지 않는 명사
-
+ex) a sheep -> sheep
+a deer -> deer
+a fish -> fish
 
 
 
