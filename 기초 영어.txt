@@ -52,6 +52,11 @@ an은 모음 소리로 시작하는 명사
 두 개 이상 있으면 명사 뒤에 s를 붙임
 
 f나 fe로 끝나는 명사는 f(e)를 v로 바꾸고 es를 붙임
+ex)
+a leaf -> leaves
+a wolf -> wolves
+a knife -> knives
+a wife -> wives
 
 
 
