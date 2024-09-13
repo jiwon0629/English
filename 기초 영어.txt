@@ -58,6 +58,12 @@ a wolf -> wolves
 a knife -> knives
 a wife -> wives
 
+불규칙 복수형 명사
+1) e로 변하는 명사 
+ex) a man -> men
+a woman -> women
+2) 뒷부분이 변하는 명사  
+3) 바뀌지 않는 명사
 
 
 
