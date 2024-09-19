@@ -76,6 +76,10 @@ ex) a sheep -> sheep
 a deer -> deer
 a fish -> fish
 
+셀 수 없는 명사 특징 1
+a / an (X)
+s (X)
+
 
 
 
