@@ -103,6 +103,8 @@ the : 그 (딱 정해져서 듣는 사람도 그게 뭔지 알 때 / 듣는 사�
 the를 사용하는 규칙 1
 무언가를 처음 말할 때 a
 또 다시 말할 때는 the
+ex) I have a computer. The computer is very powerful
+난 컴퓨터가 (한 대) 있어. (그) 컴퓨터는 성능이 정말 좋아.
 
 
 
