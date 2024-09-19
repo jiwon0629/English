@@ -105,7 +105,8 @@ the를 사용하는 규칙 1
 또 다시 말할 때는 the
 ex) I have a computer. The computer is very powerful
 난 컴퓨터가 (한 대) 있어. (그) 컴퓨터는 성능이 정말 좋아.
-
+I saw a man. The man was taller than you.
+난 (한) 남자를 봤어. (그) 남자는 너보다 키가 더 컸어.
 
 
 
