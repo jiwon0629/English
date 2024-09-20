@@ -139,7 +139,8 @@ ex) go to school, go to church, go to bed
 관사를 쓰지 않는 규칙 4
 by + 일반적인 교통수단
 ex) by car, by bus, by subway
-
+by : ~를 타고 / ~로
+모든 버스를 통틀어서 일반적인 버스 타고 다닌다는 의미
 
 
 
