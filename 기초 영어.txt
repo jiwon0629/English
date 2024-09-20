@@ -120,7 +120,9 @@ the를 사용하는 규칙 4
 ex) play the piano, play the violin
 
 관사를 쓰지 않는 규칙 1
-
+식사 이름 앞에는 관사를 쓰지 않음
+ex) have breakfast, have lunch, have dinner 
+일정한 형태가 없으니까 하나라는 의미로 a를 쓰지 않는다.
 
 
 
