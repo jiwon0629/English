@@ -137,7 +137,8 @@ ex) go to school, go to church, go to bed
 학교 + 공부 목적이 있다.
 
 관사를 쓰지 않는 규칙 4
-
+by + 일반적인 교통수단
+ex) by car, by bus, by subway
 
 
 
