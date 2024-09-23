@@ -147,7 +147,7 @@ by : ~를 타고 / ~로
 ex) I, we, you, he, she, it, they
 
 1인칭 : I, we
-2인칭
+2인칭 : you
 3인칭
 
 
