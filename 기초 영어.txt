@@ -150,7 +150,9 @@ ex) I, we, you, he, she, it, they
 2인칭 : you
 3인칭 : he, she, it, they
 
-
+단수, 복수
+단수 : I, he, she, it
+복수 : we, you(의미를 잘 알아야한다. 너는 = 단수 / 너희는 = 복수), they
 
 
 
