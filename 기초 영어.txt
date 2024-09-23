@@ -148,7 +148,7 @@ ex) I, we, you, he, she, it, they
 
 1인칭 : I, we
 2인칭 : you
-3인칭
+3인칭 : he, she, it, they
 
 
 
