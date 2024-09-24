@@ -280,7 +280,11 @@ y로 끝나는 단어
 happy + ly => happily
 y를 i로 바꾼다.
 
+부사의 종류 1
+ly가 붙어 있으면 부사
 
+부사의 종류 2
+yesterday, today, now가 붙
 
 
 
