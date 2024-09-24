@@ -276,6 +276,10 @@ any는 부정문 OR 몰라서 물어보는 의문문에 사용
 `~하게` 형용사 + ly
 slow + ly => slowly
 careful + ly => carefully
+y로 끝나는 단어
+happy + ly => happily
+y를 i로 바꾼다.
+
 
 
 
