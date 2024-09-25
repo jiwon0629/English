@@ -321,7 +321,7 @@ late
 부) 늦게
 I'm late. (형용사)
 
-빈도부사
+빈도부사 : 빈도를 나타내는 말
 always : 항상
 usually : 보통, 일반적으로
 often : 자주
@@ -329,8 +329,11 @@ sometimes : 가끔
 seldom : 좀처럼 ~않는
 never : 전혀 ~않는
 
-
-
+빈도부사 위치
+일반동사 앞 / be동사, 조동사 뒤
+He is kind. -> He is always kind.
+She eats meat. -> She seldom eats meat.
+I will give up. -> I will never give up.
 
 
 
