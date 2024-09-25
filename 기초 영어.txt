@@ -295,7 +295,10 @@ very, really, so도 부사
 부사 역할
 명사 빼고 다 꾸미기 (동사, 형용사, 부사, 문장 전체)
 명사 꾸미는 건 형용사 담당
-
+ex) He talked very loudly
+very와 loudly가 부사지만 very가 loudly를 꾸민다.
+Luckily, I passed the test.
+Luckily가 문장 전체를 꾸민다.
 
 
 
