@@ -304,14 +304,24 @@ Luckily가 문장 전체를 꾸민다.
 hard 
 형) 어려운, 딱딱한
 부) 열심히
+This is a hard question. (형용사)
+
 pretty
 형) 예쁜
 부) 꽤
+I'm pretty hungry. (부사)
 
+early
+형) 이른
+부) 일찍
+I'll have an early night. (형용사)
 
+late
+형) 늦은
+부) 늦게
+I'm late. (형용사)
 
-
-
+빈도부사
 
 
 
