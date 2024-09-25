@@ -300,7 +300,10 @@ very와 loudly가 부사지만 very가 loudly를 꾸민다.
 Luckily, I passed the test.
 Luckily가 문장 전체를 꾸민다.
 
-
+형용사, 부사 형태가 같은 단어
+hard 
+형) 어려운, 딱딱한
+부) 열심히
 
 
 
