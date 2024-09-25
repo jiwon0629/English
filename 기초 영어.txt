@@ -284,7 +284,7 @@ y를 i로 바꾼다.
 ly가 붙어 있으면 부사
 
 부사의 종류 2
-yesterday, today, now가 붙
+yesterday, today, now가 붙어 있으면 부사
 
 
 
