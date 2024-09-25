@@ -322,7 +322,12 @@ late
 I'm late. (형용사)
 
 빈도부사
-
+always : 항상
+usually : 보통, 일반적으로
+often : 자주
+sometimes : 가끔
+seldom : 좀처럼 ~않는
+never : 전혀 ~않는
 
 
 
