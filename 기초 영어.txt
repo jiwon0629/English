@@ -289,7 +289,8 @@ yesterday, today, now가 붙어 있으면 부사
 부사의 종류 3
 here, there 장소를 말할 때 쓰는 부사
 
-
+부사의 종류 4
+very, really, so도 부사
 
 
  
