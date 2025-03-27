@@ -75,7 +75,10 @@ demand (동) : 요구하다.
 feature (동) : 특징으로 삼다.
 schedule (동) : 예정에 넣다.
 deposit (동) : 예금하다.
+
 inspection (명) : 사찰, 점검
+conduct (동) : 하다.
+representative (명) : 대표
 
 
 
