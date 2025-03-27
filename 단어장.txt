@@ -84,12 +84,15 @@ verify (동) : 확인하다, 입증하다.
 necessary (형) : 필요한
 supplement (명) : 보충
 financial (형) : 금융의
-
-
-
-
-
-
+insurance (명) : 보험
+corporation (명) : 기업
+compensation (명) : 보상
+rely (자) : 의지하다, 신뢰하다
+strategy (명) : 계획, 전략
+objective (명) : 목적, (형) : 객관적인
+determine (동) : 알아내다, 결정하다, (명) : 측정
+shortcoming (명) : 결점, 단점
+evaluate (동) : 평가하다.
 
 
 
