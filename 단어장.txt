@@ -82,7 +82,7 @@ representative (명) : 대표
 reservation (명) : 예약
 verify (동) : 확인하다, 입증하다. 
 necessary (형) : 필요한
-
+supplement (명) : 보충
 
 
 
