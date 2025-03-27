@@ -40,7 +40,12 @@ postpone (동) : 연기하다, 뒤로 미루다.
 renovate (동) : 수리하다.
 archeological (형) : 자아내다, 발생시키다.
 relic (명) : 유물, 유적
-
+finding (명) : (조사, 연구) 결과, 결론
+accommodate (동) : 수용하다.
+commercial (형) : 영리적인, 상업상의
+enterprise (명) : 기업, 회사
+structural (형) : 구조상의, 조직상의
+structure (동) : 구성하다, 조직화하다, (명) : 건물, 구조
 
 
 
