@@ -59,6 +59,9 @@ mandatory (형) : 필수의 의무의
 operate (동) : 운전하다, 조종하다.
 obtain (동) : 취득하다, 획득하다.
 obtainment (명) : 입수, 획득
+oversee (동) : 감독하다.
+adjust (동) : 조정하다, 적응하다, 바로잡다.
+shorten (동) : 짧게 하다, 단축하다, 짧아지다.
 
 
 
