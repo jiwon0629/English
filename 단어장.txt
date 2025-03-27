@@ -33,6 +33,13 @@ representative (명) : 대표자, (형) : 대표하는, 대리의
 potential (명) : 가능성, (형) : 잠재하는
 
 revenue : 수익, 수입
+outlook : 관점, 세계관, 인생관, 전망
+notity (동) : 통지하다, 통보하다.
+tenant (명) : 세입자, 주민
+postpone (동) : 연기하다, 뒤로 미루다.
+renovate (동) : 수리하다.
+archeological (형) : 자아내다, 발생시키다.
+relic (명) : 유물, 유적
 
 
 
