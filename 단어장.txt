@@ -9,18 +9,18 @@ stable : 안정된, 마구간, 넣다.
 stability : 안정, 안정성
 
 - 형용사처럼 보이지만 품사가 명사인 단어들을 주의해야 한다.
-applicant(명) : 지원자
-delivery(명) : 배달
-denial(명) : 부인, 부정
-proposal(명) : 제안
-complaint(명) : 불만
-arrival(명) : 도착
-disposal(명) : 처리, 처분
-withdrawal(명) : 인출
-referral(명) : 추천, 소개
+applicant (명) : 지원자
+delivery (명) : 배달
+denial (명) : 부인, 부정
+proposal (명) : 제안
+complaint (명) : 불만
+arrival (명) : 도착
+disposal (명) : 처리, 처분
+withdrawal (명) : 인출
+referral (명) : 추천, 소개
 
 - 동사나 형용사로 많이 사용되지만 명사로도 사용되는 단어들을 주의해야 한다.
-prospect(명) : 전망, (동) : 조사하다.
+prospect (명) : 전망, (동) : 조사하다.
 respect (명) : 존경, (동) : 존경하다.
 request (명) : 요청, (동) : 요청하다.
 review (명) : 검토, (동) : 검토하다.
@@ -52,6 +52,14 @@ upcoming (형) : 다가오는, 곧 있을
 confirm (동) : 사실임을 보여주다.
 reserve (동) : 예약하다.
 organize (동) : 준비하다.
+additional (형) : 추가의
+correction (명) : 정정한 것
+issue (명) : 발행물, 쟁점
+mandatory (형) : 필수의 의무의
+operate (동) : 운전하다, 조종하다.
+obtain (동) : 취득하다, 획득하다.
+obtainment (명) : 입수, 획득
+
 
 
 
