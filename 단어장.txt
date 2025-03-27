@@ -79,6 +79,21 @@ deposit (동) : 예금하다.
 inspection (명) : 사찰, 점검
 conduct (동) : 하다.
 representative (명) : 대표
+reservation (명) : 예약
+verify (동) : 확인하다, 입증하다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
