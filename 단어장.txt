@@ -7,3 +7,6 @@ conclusion : 결론, 결말
 economic : 경제의, 경제성이 있는
 stable : 안정된, 마구간, 넣다.
 stability : 안정, 안정성
+applicant(명) : 지원자
+delivery(명) : 배달
+denial(명) : 부인, 부정
