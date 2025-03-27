@@ -1,3 +1,4 @@
 led (lead의 과거) : 지도되는, 이끌다.
 attend : 참석하다.
-
+conference : 회의
+discuss : 상의하다, 논하다, 논의하다.
