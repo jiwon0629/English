@@ -32,6 +32,8 @@ alternative (명) : 대안, (형) : 대안의
 representative (명) : 대표자, (형) : 대표하는, 대리의
 potential (명) : 가능성, (형) : 잠재하는
 
+revenue : 수익, 수입
+
 
 
 
