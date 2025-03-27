@@ -30,7 +30,7 @@ objective (명) : 목적, (형) : 객관적인
 respondent (명) : 응답자, (형) : 응하는
 alternative (명) : 대안, (형) : 대안의
 representative (명) : 대표자, (형) : 대표하는, 대리의
-
+potential (명) : 가능성, (형) : 잠재하는
 
 
 
