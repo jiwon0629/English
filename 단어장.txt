@@ -15,5 +15,9 @@ denial(명) : 부인, 부정
 proposal(명) : 제안
 complaint(명) : 불만
 arrival(명) : 도착
-disposal(명
+disposal(명) : 처리, 처분
+withdrawal(명) : 인출
 referral(명) : 추천, 소개
+
+- 동사나 형용사로 많이 사용되지만 명사로도 사용되는 단어들을 주의해야 한다.
+prospect(명) : 전망, (동) : 조사하다.
