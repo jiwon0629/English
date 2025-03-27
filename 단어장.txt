@@ -63,6 +63,18 @@ oversee (동) : 감독하다.
 adjust (동) : 조정하다, 적응하다, 바로잡다.
 shorten (동) : 짧게 하다, 단축하다, 짧아지다.
 
+- 주로 명사나 형용사로 쓰이지만 동사로도 사용되어 혼동을 일으키는 단어
+function (동) : 기능하다.
+question (동) : 질문하다.
+name (동) : 명명하다, 임명하다.
+document (동) : 문서에 기록하다.
+finance (동) : 자금을 공급하다.
+transfer (동) : 이동하다, 옮기다.
+contact (동) : 연락하다.
+demand (동) : 요구하다.
+feature (동) : 특징으로 삼다.
+schedule (동) : 예정에 넣다.
+deposit (동) : 예금하다.
 
 
 
