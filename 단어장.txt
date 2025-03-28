@@ -95,7 +95,6 @@ reduce
 comprise
 instruct
 budget
-efficient
 memorandum (명) : 각서
 
 
