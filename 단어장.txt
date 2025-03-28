@@ -93,7 +93,9 @@ objective (명) : 목적, (형) : 객관적인
 determine (동) : 알아내다, 결정하다, (명) : 측정
 shortcoming (명) : 결점, 단점
 evaluate (동) : 평가하다.
-
+accounting (명) : 회계
+annual (형) : 매년의, 연래의
+conduct
 
 
 
