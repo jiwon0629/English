@@ -96,7 +96,13 @@ evaluate (동) : 평가하다.
 accounting (명) : 회계
 annual (형) : 매년의, 연래의
 conduct
-
+according
+reduce
+comprise
+instruct
+budget
+efficient
+memorandum (명) : 각서
 
 
 
