@@ -89,9 +89,9 @@ shortcoming (명) : 결점, 단점
 evaluate (동) : 평가하다.
 accounting (명) : 회계
 annual (형) : 매년의, 연래의
-conduct
-according
-reduce
+conduct (동) : 하다, 지휘하다.
+according (부) : ~에 따라서
+reduce (동) : 줄이다, 낮추다
 comprise
 instruct
 budget
