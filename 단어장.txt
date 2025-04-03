@@ -92,7 +92,7 @@ annual (형) : 매년의, 연래의
 conduct (동) : 하다, 지휘하다.
 according (부) : ~에 따라서
 reduce (동) : 줄이다, 낮추다
-comprise
+comprise (동) : ~으로 구성되다, 차지하다
 instruct
 budget
 memorandum (명) : 각서
