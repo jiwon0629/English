@@ -91,10 +91,10 @@ accounting (명) : 회계
 annual (형) : 매년의, 연래의
 conduct (동) : 하다, 지휘하다.
 according (부) : ~에 따라서
-reduce (동) : 줄이다, 낮추다
-comprise (동) : ~으로 구성되다, 차지하다
-instruct
-budget
+reduce (동) : 줄이다, 낮추다.
+comprise (동) : ~으로 구성되다, 차지하다.
+instruct (동) : 지시하다, 가르치다.
+budget (명) : 예산, 비용
 memorandum (명) : 각서
 
 
