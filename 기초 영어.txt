@@ -6,13 +6,13 @@
 ex) She reads a book
     He doesn't eat lunch
 
-
 be 동사 am, are, is의 과거형
 am -> was
 are -> were
 is -> was
 
-
+do의 과거형 did
+did 뒤에는 동사원형
 
 예외1) 파도소리로 끝나는 동사에는 es를 붙인다.
 s, x, ch,  sh
