@@ -3,11 +3,15 @@
 3인칭 : 나, 너 빼고
 
 주어가 3인칭 단수일 때 동사에 s 붙는다.
+ex) She reads a book
+    He doesn't eat lunch
+
 
 be 동사 am, are, is의 과거형
 am -> was
 are -> were
 is -> was
+
 
 
 예외1) 파도소리로 끝나는 동사에는 es를 붙인다.
