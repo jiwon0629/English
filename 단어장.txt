@@ -32,7 +32,7 @@ notity (동) : 통지하다, 통보하다.
 tenant (명) : 세입자, 주민
 postpone (동) : 연기하다, 뒤로 미루다.
 renovate (동) : 수리하다.
-archeological (형) : 자아내다, 발생시키다.
+archeological (형) : 고고학의
 relic (명) : 유물, 유적
 finding (명) : (조사, 연구) 결과, 결론
 accommodate (동) : 수용하다.
