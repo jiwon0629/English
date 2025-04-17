@@ -41,7 +41,8 @@ enterprise (명) : 기업, 회사
 structural (형) : 구조상의, 조직상의
 structure (동) : 구성하다, 조직화하다, (명) : 건물, 구조
 expect (동) : 예상하다.
-promote (동) : 촉진하다, 홍보하다, 승진시키다.
+promote (동) : 촉진하다, 홍보하다, 승진시키다. 
+
 upcoming (형) : 다가오는, 곧 있을
 confirm (동) : 사실임을 보여주다.
 reserve (동) : 예약하다.
