@@ -50,7 +50,7 @@ organize (동) : 준비하다.
 additional (형) : 추가의
 correction (명) : 정정한 것
 issue (명) : 발행물, 쟁점
-mandatory (형) : 필수의 의무의
+mandatory (형) : 필수의, 의무의
 operate (동) : 운전하다, 조종하다.
 obtain (동) : 취득하다, 획득하다.
 obtainment (명) : 입수, 획득
