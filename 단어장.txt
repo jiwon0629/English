@@ -79,6 +79,7 @@ verify (동) : 확인하다, 입증하다.
 necessary (형) : 필요한
 supplement (명) : 보충
 financial (형) : 금융의
+
 insurance (명) : 보험
 corporation (명) : 기업
 compensation (명) : 보상
