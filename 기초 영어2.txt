@@ -13,3 +13,6 @@ ex) Mr. Kim is at Hackers.
 
 be + in + 장소(나라/도시/내부 공간) -> ~에 있다.
 ex) Yumi is in her room
+
+be + on + 장소(표면 위) -> ~에 있다.
+ex) The boxes are on the floor.
