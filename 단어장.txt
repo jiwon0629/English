@@ -98,7 +98,9 @@ comprise (동) : ~으로 구성되다, 차지하다.
 instruct (동) : 지시하다, 가르치다.
 budget (명) : 예산, 비용
 memorandum (명) : 각서
-
+examine (동) : 검토하다
+uncertain (형) : 불확실한
+omit (명) : 누락
 
 
 
