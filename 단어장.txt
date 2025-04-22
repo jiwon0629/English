@@ -102,8 +102,7 @@ examine (동) : 검토하다
 uncertain (형) : 불확실한
 omit (명) : 누락
 
-
-
+committee (명) : 위원회
 
 
 
