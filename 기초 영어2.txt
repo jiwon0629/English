@@ -16,3 +16,7 @@ ex) Yumi is in her room
 
 be + on + 장소(표면 위) -> ~에 있다.
 ex) The boxes are on the floor.
+
+be + 장소 : ~에 있다.
+be + 명사 : ~이다.
+be + 형용사 : ~하다.
