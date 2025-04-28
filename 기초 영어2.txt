@@ -20,3 +20,8 @@ ex) The boxes are on the floor.
 be + 장소 : ~에 있다.
 be + 명사 : ~이다.
 be + 형용사 : ~하다.
+
+be동사 뒤에 형용사, 명사, 전치사 + 명사 가능
+
+relative : (명)친척(=cousin) , (형) 상대적인
+accurate : 정확한
