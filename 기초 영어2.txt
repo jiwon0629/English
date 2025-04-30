@@ -25,3 +25,9 @@ be동사 뒤에 형용사, 명사, 전치사 + 명사 가능
 
 relative : (명)친척(=cousin) , (형) 상대적인
 accurate : 정확한
+
+2.
+명령문은 주어가 없다.
+명령문 뒤에는 동사원형
+ex) Come to my house.
+     Look at this.
