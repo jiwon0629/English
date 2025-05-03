@@ -31,3 +31,7 @@ accurate : 정확한
 명령문 뒤에는 동사원형
 ex) Come to my house.
      Look at this.
+
+긴 주어가 아닌 짧은 동사를 먼저 찾는다.
+
+주어 자리에 올 수 있는 것은 명사
