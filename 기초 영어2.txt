@@ -38,3 +38,7 @@ ex) Come to my house.
 
 1) 명사
 ex) The flower is beautiful
+
+2) 대명사
+ex) They are my friends
+
